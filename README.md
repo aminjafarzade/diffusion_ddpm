@@ -180,7 +180,7 @@ After setting up the environment, run `ddpm_tutorial.ipynb` via jupyter notebook
 
 <!-- If you successfully finish the task 1, implement the methods `add_noise` and `step` of the class `DDPMScheduler` defined in `image_diffusion_todo/scheduler.py`. You also need to implement the method `get_loss` of the class `DiffusionModule` defined in `image_diffusion_todo/model.py`. Refer to your implementation of the methods `q_sample`, `p_sample`, and `compute_loss` from the 2D experiment. -->
 
-Here, I will generate $64\times64$ animal images by training a DDPM using the AFHQ dataset.
+Here, we will generate $64\times64$ animal images by training a DDPM using the AFHQ dataset.
 
 To train the model, simply execute the command: `python train.py`.
 
