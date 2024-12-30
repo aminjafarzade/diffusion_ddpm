@@ -174,7 +174,7 @@ After setting up the environment, run `ddpm_tutorial.ipynb` via jupyter notebook
   <img width="500" alt="image" src="./assets/images/task2_teaser.png">
 </p>
 
-### TODO
+<!-- ### TODO -->
 
 <!-- If you successfully finish the task 1, copy `2d_plot_todo/ddpm.py` into `image_diffusion_todo/ddpm.py`. They share the same code. -->
 
